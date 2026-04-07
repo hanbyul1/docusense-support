@@ -18,4 +18,4 @@ Any data processed remains on your device unless explicitly shared by the user.
 ## Contact
 If you have any questions about this Privacy Policy, please contact:
 
-Email: daekyoo.kim@email.com
+Email: daekyoo.kim@gmail.com
